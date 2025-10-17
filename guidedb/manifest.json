@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "main",
+      "title": "Welcome to the Down Bii Guide",
+      "file": "main.md",
+      "section": "General"
+    },
+        {
+      "id": "leaderboard",
+      "title": "Leaderboards",
+      "file": "basefeatures/leaderboard.md",
+      "section": "Base Features"
+    },
+            {
+      "id": "profileview",
+      "title": "Viewing Profiles",
+      "file": "basefeatures/profileview.md",
+      "section": "Base Features"
+    },
+    {
+      "id": "clans",
+      "title": "Clans",
+      "file": "basefeatures/clans.md",
+      "section": "Base Features"
+    }
+  ]
+}
